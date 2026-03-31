@@ -1,7 +1,7 @@
 # Evaluacion-Modular4---Desarrollo-y-Prueba-de-un-Sistema-de-Gesti-n-de-Servicios
 Repositorio de Final del Modulo 4 del Curso Desarrollador de Aplicaciones Full Stack Java Trainee v2.0 0033-1 de Kibernum.
 
-# Sistema de Gestión de Telecomunicaciones (Java)
+# Desarrollo-y-Prueba-de-un-Sistema-de-Gestion-de-Servicios (Java)
 
 Este proyecto es una aplicación de consola desarrollada en **Java 17** que permite gestionar el registro de clientes y la contratación de servicios de telecomunicaciones (Internet, Telefonía y Televisión). El sistema aplica principios avanzados de Programación Orientada a Objetos (POO) y pruebas unitarias automáticas.
 
